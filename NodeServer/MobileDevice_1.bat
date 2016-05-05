@@ -1,0 +1,1 @@
+appium -a 192.168.0.103 -p 4725  --bootstrap-port 4730 -U 192.168.56.101:5555 --nodeconfig  F:\Appium_allFiles\nodeconfig_2.json
